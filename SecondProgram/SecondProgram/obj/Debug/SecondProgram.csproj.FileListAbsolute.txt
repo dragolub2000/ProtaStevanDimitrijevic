@@ -1,0 +1,11 @@
+C:\ASP\SecondProgram\SecondProgram\SecondProgram\bin\Debug\SecondProgram.exe.config
+C:\ASP\SecondProgram\SecondProgram\SecondProgram\bin\Debug\SecondProgram.exe
+C:\ASP\SecondProgram\SecondProgram\SecondProgram\bin\Debug\SecondProgram.pdb
+C:\ASP\SecondProgram\SecondProgram\SecondProgram\obj\Debug\SecondProgram.csproj.AssemblyReference.cache
+C:\ASP\SecondProgram\SecondProgram\SecondProgram\obj\Debug\SecondProgram.csproj.SuggestedBindingRedirects.cache
+C:\ASP\SecondProgram\SecondProgram\SecondProgram\obj\Debug\SecondProgram.Form1.resources
+C:\ASP\SecondProgram\SecondProgram\SecondProgram\obj\Debug\SecondProgram.Properties.Resources.resources
+C:\ASP\SecondProgram\SecondProgram\SecondProgram\obj\Debug\SecondProgram.csproj.GenerateResource.cache
+C:\ASP\SecondProgram\SecondProgram\SecondProgram\obj\Debug\SecondProgram.csproj.CoreCompileInputs.cache
+C:\ASP\SecondProgram\SecondProgram\SecondProgram\obj\Debug\SecondProgram.exe
+C:\ASP\SecondProgram\SecondProgram\SecondProgram\obj\Debug\SecondProgram.pdb
